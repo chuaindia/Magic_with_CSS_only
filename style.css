@@ -1,5 +1,5 @@
 .card {
-    border: 1px solid lightgray;
+    border: 1px solid black;
     width: 260px;
     padding: 10px;
     margin: 10px;
@@ -23,7 +23,7 @@
 .flexbox {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap: wrap;   
 }
 
 .heading {
